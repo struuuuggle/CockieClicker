@@ -1,1 +1,1 @@
-# CockieClicker
+# CookieClicker
